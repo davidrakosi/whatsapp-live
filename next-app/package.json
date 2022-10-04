@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "npm run build && next export -o _static"
+    "export": "npm run build && next export && mv out _static"
   },
   "dependencies": {
     "@thirdweb-dev/react": "^3.0.0",
