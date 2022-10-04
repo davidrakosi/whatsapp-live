@@ -11,7 +11,7 @@ Sign up for
 
 ---
 
-### Tech used in this project:
+### Tech used in this project
 
 - MetaMask Login
 - Thirdweb Deploy
